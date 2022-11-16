@@ -1,1 +1,1 @@
-# hands_on_2
+ merhaba   # hands_on_2fix yaptim
