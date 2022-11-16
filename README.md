@@ -1,4 +1,3 @@
 # hands_on_2
-
 I made a fixing
-I made a final fixing merry branch
+I made a final fixing murathan branch
